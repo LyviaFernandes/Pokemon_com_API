@@ -38,7 +38,7 @@
 ## 💻 Sobre o projeto
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-QuickFood é um projeto desenvolvido com base em um protótipo do Figma, com o objetivo de aplicar e consolidar os conhecimentos adquiridos em HTML e CSS.
+Pokemon é um projeto desenvolvido com base em um protótipo do Figma, com o objetivo de aplicar e consolidar os conhecimentos adquiridos em HTML, CSS e JavaScript.
 
 
 
