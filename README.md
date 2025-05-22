@@ -1,7 +1,7 @@
 
 <!-- MODELO PROJETO FINALIZADO -->
 <h1 align="center"> 
-	  🚀✅ QuickFood - Concluído ✅🚀
+	  🚀✅ Pokemon - Concluído ✅🚀
 </h1>
 
 <!-- ---------------------------------------------------------------------- -->
@@ -48,7 +48,8 @@ QuickFood é um projeto desenvolvido com base em um protótipo do Figma, com o o
 ## 🎨 Layout
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
-![Tela](https://github.com/user-attachments/assets/6e7105bd-0714-4072-9949-a6b824c384da)<br>
+![image](https://github.com/user-attachments/assets/89e8fd17-bb9f-4d53-bd34-22988229928c)
+)<br>
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE COMO EXECUTAR O PROJETO -->
