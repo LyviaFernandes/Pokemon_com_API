@@ -65,7 +65,7 @@ QuickFood é um projeto desenvolvido com base em um protótipo do Figma, com o o
 ### Ou acesse por aqui
 Você também pode acessar clicando nesse link do Github Pages:
 
-- [QuickFood](https://github.com/LyviaFernandes/Pokemon_com_API/)
+- [Pokemon](https://github.com/LyviaFernandes/Pokemon_com_API/)
 
 <!-- MODELO DE TECNOLOGIAS -->
 ## 🛠 Tecnologias
